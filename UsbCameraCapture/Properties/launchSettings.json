@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UsbCameraCapture": {
+      "commandName": "Project",
+      "commandLineArgs": "-p 5556"
+    }
+  }
+}
